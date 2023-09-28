@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Rib Eye 800g",
+      "price": "700",
+      "id": 4
+    },
+    {
+      "name": "Jugo de Fresa",
+      "price": "600",
+      "id": 5
+    }
+  ]
+}
